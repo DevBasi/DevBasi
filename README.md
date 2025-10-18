@@ -6,12 +6,12 @@
 </div>
 
 <div style="margin-bottom: 20px;">
-    <strong style="font-size: 32px;">Main</strong>
+    <strong style="font-size: 72px;">Main</strong>
 </div>
 
 <div style="display: flex; gap: 15px; justify-content: center;">
     <a href="https://youtube.com" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg  " alt="YouTube Badge" width="50"/>
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="YouTube Badge" width="50"/>
     </a>
     <a href="https://discord.com" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Discord Badge" width="50"/>
