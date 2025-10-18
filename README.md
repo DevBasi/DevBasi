@@ -6,7 +6,7 @@
 </div>
 
 My about
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
