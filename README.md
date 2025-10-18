@@ -6,6 +6,7 @@
 </div>
 
 My about
+
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -14,4 +15,3 @@ My about
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge"/>
   </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
