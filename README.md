@@ -12,6 +12,6 @@ My about
   </a>
       
   <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge" width="100/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge" width="100"/>
   </a>
   
