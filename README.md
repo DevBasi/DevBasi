@@ -10,8 +10,9 @@ My about
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white " alt="Youtube Badge" width="100/>
   </a>
+
       
   <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge" width="100"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge" width="50"/>
   </a>
   
