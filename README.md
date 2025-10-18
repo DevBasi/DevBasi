@@ -6,11 +6,22 @@
 </div>
 
 My about
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  
+
   <a href="your-telegram-URL">
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge"/>
   </a>
+
+
+
+
+
+
+
+
+
+
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
