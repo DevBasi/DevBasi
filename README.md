@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/DevBasi" target="_blank">Basi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend developer from Russia 🇷🇺</h3>
+<h1 align="center">Hi, I'm <a href="https://github.com/DevBasi" target="_blank">Basi</a> 
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/736x/58/fb/fa/58fbfa767d19f19b7bf46aaf90d7b140.jpg" width="700"/>
