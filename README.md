@@ -1,5 +1,5 @@
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h1 align="center">Hi, I'm <a href="https://github.com/DevBasi" target="_blank">Basi</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/736x/58/fb/fa/58fbfa767d19f19b7bf46aaf90d7b140.jpg" width="700"/>
