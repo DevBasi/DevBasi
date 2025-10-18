@@ -6,17 +6,17 @@
 </div>
 
 <div style="margin-bottom: 20px;">
-    <strong>Подпишитесь на наши социальные сети</strong>
+    <strong>Main</strong>
 </div>
 
 <div style="display: flex; gap: 15px; justify-content: center;">
     <!-- YouTube иконка -->
     <a href="https://youtube.com" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge" width="50"/>
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="YouTube Badge" width="50"/>
     </a>
     <!-- Discord иконка -->
     <a href="https://discord.com" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" width="50"/>
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Discord Badge" width="50"/>
     </a>
 </div>
   
