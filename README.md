@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, backend developer from Russia 🇷🇺</h3>
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/736x/58/fb/fa/58fbfa767d19f19b7bf46aaf90d7b140.jpg" width="700"/>
+  <img src="https://i.pinimg.com/736x/58/fb/fa/58fbfa767d19f19b7bf46aaf90d7b140.jpg" width="1000"/>
 </div>
 
   <a href="your-youtube-URL">
