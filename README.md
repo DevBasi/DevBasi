@@ -5,16 +5,18 @@
   <img src="https://i.pinimg.com/736x/58/fb/fa/58fbfa767d19f19b7bf46aaf90d7b140.jpg" width="700"/>
 </div>
 
-<h1  align="left">Main
+<div style="margin-bottom: 20px;">
+    <strong>Подпишитесь на наши социальные сети</strong>
+</div>
 
-
-  <a href="your-telegram-URL">
-    <img src=" https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white " alt="Youtube Badge" width="70"/>
-  </a>
-
-
-      
-  <a href="your-telegram-URL">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg" alt="Youtube Badge" width="50"/>
-  </a>
+<div style="display: flex; gap: 15px; justify-content: center;">
+    <!-- YouTube иконка -->
+    <a href="https://youtube.com" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge" width="50"/>
+    </a>
+    <!-- Discord иконка -->
+    <a href="https://discord.com" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" width="50"/>
+    </a>
+</div>
   
