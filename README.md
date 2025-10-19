@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p align="center">
- <img width="600" src="https://i.pinimg.com/736x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" alt="snake"/>
+ <img width="600" src="https://i.pinimg.com/736x/04/a0/2e/04a02ea3b3f64baa2238eeffd973e840.jpg" alt="snake"/>
 </p>
 
 ## About me
