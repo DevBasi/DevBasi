@@ -1,18 +1,39 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/DevBasi" target="_blank">Basi</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/DevBasi" target="_blank">Basi</a>
+</h1>
 
 <p align="center">
- <img width="600" src="https://i.pinimg.com/736x/04/a0/2e/04a02ea3b3f64baa2238eeffd973e840.jpg" alt="snake"/>
+  <a href="https://t.me/your_telegram_username" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
 </p>
 
-## About me
+<p align="center">
+  <img width="100%" src="banner.jpg" alt="DevBasi Banner" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Arch+Linux+User;BasiDev+Founder" alt="Typing SVG" />
+</p>
 
-Backend developer from Russia.
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,java,cs&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio&perline=7" />
-    <br>
-  </p>
-</details>
+---
+
+### Tech Stack
+
+| **OS & Language** | **IDE & Workflow** |
+| :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=linux,java&theme=dark" /> | <img src="https://skillicons.dev/icons?i=idea,git,github&theme=dark" /> |
+
+---
+
+### GitHub Performance
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevBasi&show_icons=true&theme=transparent&title_color=1793D1&icon_color=1793D1&text_color=ffffff&bg_color=1a1b2600&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBasi&theme=transparent&currStreakNum=1793D1&sideLabels=ffffff&stroke=1793D1&fire=1793D1&hide_border=true&bg_color=1a1b2600" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=footer" />
+</p>
