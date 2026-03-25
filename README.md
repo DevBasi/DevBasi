@@ -9,9 +9,6 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="banner.jpg" alt="DevBasi Banner" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Arch+Linux+User;BasiDev+Founder" alt="Typing SVG" />
 </p>
 
