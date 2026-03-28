@@ -25,7 +25,6 @@
 ### GitHub Performance
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevBasi&show_icons=true&theme=transparent&title_color=1793D1&icon_color=1793D1&text_color=ffffff&bg_color=1a1b2600&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBasi&theme=transparent&currStreakNum=1793D1&sideLabels=ffffff&stroke=1793D1&fire=1793D1&hide_border=true&bg_color=1a1b2600" />
 </p>
 
