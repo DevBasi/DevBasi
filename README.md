@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://t.me/your_telegram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  <a href="https://t.me/devbasi" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-devbasi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel devbasi" />
   </a>
 </p>
 
