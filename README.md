@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://t.me/devbasi" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-devbasi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel devbasi" />
+    <img src="https://img.shields.io/badge/Telegram-PenguinTeam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel devbasi" />
   </a>
 </p>
 
