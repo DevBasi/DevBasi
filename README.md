@@ -3,13 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://t.me/thepenguinteam" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-PenguinTeam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel devbasi" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;BasiDev+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;PenguinTeam+Founder;Solo+Developer" alt="Typing SVG" />
 </p>
 
 ---
