@@ -1,18 +1,20 @@
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/DevBasi" target="_blank">Basi</a>
+  Hi, I'm <a href="https://github.com/DevBasi" target="_blank" style="color: gray; text-decoration: none;">Basi</a>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1793D1&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;PenguinTeam+Founder;Solo+Developer" alt="Typing SVG" />
+  <a href="https://github.com/DevBasi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;PenguinTeam+Founder;Solo+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ### Tech Stack
 
-| **OS & Language** | **IDE & Workflow** |
+| **OS & Languages** | **IDEs & Workflow** |
 | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=linux,java&theme=dark" /> | <img src="https://skillicons.dev/icons?i=idea,git,github&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=linux,java,python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" /> |
 
 ---
 
