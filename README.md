@@ -10,7 +10,7 @@
   <a href="https://github.com/DevBasi?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=161B22" />
   </a>
-  <a href="https://github.com/sponsors/DevBasi">
+  <a href="https://boosty.to/basi/donate">
     <img src="https://img.shields.io/badge/Support-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=8B949E&labelColor=161B22" />
   </a>
   <a href="https://github.com/DevBasi">
