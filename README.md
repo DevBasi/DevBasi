@@ -2,14 +2,6 @@
   Hi, I'm <a href="https://github.com/DevBasi" target="_blank" style="color: gray; text-decoration: none;">Basi</a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/DevBasi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B949E&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;PenguinTeam+Founder;Solo+Developer" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### Tech Stack
 
 | **OS & Languages** | **IDEs & Workflow** |
